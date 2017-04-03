@@ -6,6 +6,7 @@ public class Jerome {
 	protected String nom;
 	protected String prenom;
 	
+	
 	public Jerome() {
 	}
 
